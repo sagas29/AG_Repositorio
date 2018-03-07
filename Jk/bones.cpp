@@ -10,6 +10,9 @@ void init (void)
     glOrtho(-3.0, 3.0, -3.0, 3.0, -1.0, 1.0);
 }
 
+
+//Modificacion Hecha
+
 void display(void)
 {
 	glClearColor(0.5,1,0.6,0.0);
