@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Example2.dir/Ejercicio2.cpp.o  -o Example2 -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Example6.dir/Ejercicio6.cpp.o  -o Example6 -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

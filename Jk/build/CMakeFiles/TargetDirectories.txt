@@ -1,3 +1,0 @@
-/home/sagastume/opengl/Jk/build/CMakeFiles/rebuild_cache.dir
-/home/sagastume/opengl/Jk/build/CMakeFiles/edit_cache.dir
-/home/sagastume/opengl/Jk/build/CMakeFiles/bns.dir

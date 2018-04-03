@@ -1,0 +1,8 @@
+/home/sagastume/opengl/Tarea 2/build/CMakeFiles/edit_cache.dir
+/home/sagastume/opengl/Tarea 2/build/CMakeFiles/Example5.dir
+/home/sagastume/opengl/Tarea 2/build/CMakeFiles/Example1.dir
+/home/sagastume/opengl/Tarea 2/build/CMakeFiles/rebuild_cache.dir
+/home/sagastume/opengl/Tarea 2/build/CMakeFiles/Example6.dir
+/home/sagastume/opengl/Tarea 2/build/CMakeFiles/Example2.dir
+/home/sagastume/opengl/Tarea 2/build/CMakeFiles/Example3.dir
+/home/sagastume/opengl/Tarea 2/build/CMakeFiles/Example4.dir
